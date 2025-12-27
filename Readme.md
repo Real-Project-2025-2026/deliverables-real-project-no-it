@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="logobanner.png" alt="Concentral banner" width="100%">
+</p>
+
+
+
 # Concentral
 
 Concentral is a platform that helps students find café study spaces and book food and drink bundles with guaranteed study time slots.
